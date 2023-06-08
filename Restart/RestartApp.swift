@@ -1,10 +1,3 @@
-//
-//  RestartApp.swift
-//  Restart
-//
-//  Created by Allan Galdino on 08/06/23.
-//
-
 import SwiftUI
 
 @main
